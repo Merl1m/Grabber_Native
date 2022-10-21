@@ -1,0 +1,11 @@
+Something For Linux Kidd13s
+
+Compilation..
+gcc Grab-Net.c -o _output_file_
+
+Usage..
+Run as root on the target Linux system.
+Get the *dist* Folder on the CWD.
+Enjoy free WiFi!!
+
+Until Next time the o1d man returns or d1es...
